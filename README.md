@@ -61,8 +61,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abhinavverma658/abhinavverma658/output/snake.svg" alt="Snake animation" />
-
+## How to reach me ? ✔️
+- E-Mail: abhinavverma658@gmail.com
+- Mobile Number: +91 9924133658
+  
 ###
